@@ -1,0 +1,1 @@
+export const arr:number[] = [7,5,6,8,7,20,123,33,100,1]
